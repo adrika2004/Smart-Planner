@@ -35,7 +35,6 @@ Built using React.js and Vite, the project demonstrates modern frontend developm
 - Vercel
 
 ## Project Structure
-## Project Structure
 - `public/`  
   Stores static files and assets used by the application.
 - `src/`  
